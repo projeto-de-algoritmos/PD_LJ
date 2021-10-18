@@ -1,41 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Six flags
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Programação dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0013651  |  João Gabriel Antunes |
+| 16/0132550  |  Lorrany Azevedo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Neste projeto nós resolvemos problemas no URI envolvendo o conteúdo de programação dinâmica 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![alt text](./1487.jpg)
+![alt text](./urii.jpg)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: C++<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Compilador g++.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar o projeto basta executar os seguintes comandos no terminal:
+
+```console
+g++ -o prog 1487.cpp
+./prog < teste
+```
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
