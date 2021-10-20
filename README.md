@@ -1,4 +1,4 @@
-# Six flags
+# Six flags e outros exercicios
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Programação dinâmica<br>
@@ -25,12 +25,12 @@ Compilador g++.
 Para rodar o projeto basta executar os seguintes comandos no terminal:
 
 ```console
-g++ -o prog 1487.cpp
+g++ -o prog <nome-do-programa>.cpp
 ./prog < teste
 ```
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Link para o vídeo de apresentação: https://youtu.be/LZRaNOxCrT4
 
 
 
